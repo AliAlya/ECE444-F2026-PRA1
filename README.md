@@ -7,3 +7,7 @@ Name: Ali Alyaseri
 ## Successful Merge
 
 ![Pull request 2 successfully merged and closed](screenshots/merge-success.png)
+
+## Utility Function Commits
+
+![Git log showing the utility implementation and test commits](screenshots/utils-commits.png)
